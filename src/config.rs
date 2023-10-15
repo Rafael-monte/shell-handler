@@ -1,0 +1,1 @@
+pub const DEFAULT_SHELL_LOCATION: &str="";
